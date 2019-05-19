@@ -1,0 +1,67 @@
+#container {
+
+}
+
+.enlaces li {
+    display: inline-block;
+}
+
+.enlaces {
+    text-align: right;
+}
+
+.main {
+
+}
+.large  {
+    width: 260px; height: auto;
+}
+
+.small img{
+    display:block;
+    margin:auto;
+}
+
+.imgredonda {
+    width:417px;
+    height:42px;
+    border-radius:17px;
+}
+.medio {
+    text-align: center;
+    margin: 10px;
+    padding: 5px;
+}
+
+.medio button {
+      background-color:#f4f4f4;
+      padding: 5px;
+      margin: 3px;
+      width:140px;
+      height:35px;
+      border-radius:12px;
+}
+
+.idiomas {
+    text-align: center;
+}
+
+.lenguas li{
+    text-align: center;
+    display: inline-block;
+
+}
+
+.lenguas {
+   font-size:13px;
+}
+
+
+.footer {
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  height: 70px;
+  background-color: white;
+  width: 100%;
+}

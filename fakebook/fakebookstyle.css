@@ -1,0 +1,47 @@
+#tituloprincipal  {
+    color: blue;
+}
+
+.nombre  {
+    color: pink;
+}
+body { background-color: #E0ECFF; }
+
+.centrado {
+    text-align:center;
+    }
+
+.small  {
+    width: 300px; height: auto;
+}
+
+.fuente  {
+       font-size: 15px;
+}
+.fuente2  {
+       font-size: 27px;
+       color: purple;
+}
+
+#navigation {
+    background-color:  pink;
+    height: 100px;
+    width: 50%;
+}
+.fuente3  {
+       font-size: 20px;
+       color: blue;
+ }
+
+ .main {
+    background-color: purple;
+    width: 500px;
+    margin: 0 auto;
+    height: 200px;
+}
+
+.move {
+    background-color: yellow;
+    margin: 100px;
+    padding: 100px;
+}
